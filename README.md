@@ -1,5 +1,7 @@
 Global Governance Platform
 
+Built with Claude Sonnet 4.5
+
 A working global app for governance that allows secure user registration and wishes, wish solutions and solution voting and uses 
 end to end ai build maintenance and operation on the web using ai dynamic interactive graphics 
 such as based on d3 and google maps displaying various zoomable and ad hoc user ai query views of the data.
