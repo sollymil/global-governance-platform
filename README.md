@@ -6,6 +6,11 @@ A working global app for governance that allows secure user registration and wis
 end to end ai build maintenance and operation on the web using ai dynamic interactive graphics 
 such as based on d3 and google maps displaying various zoomable and ad hoc user ai query views of the data.
 
+## Prototype (Week 1)
+
+Build user facing pages without much functional depth to show basic design and structure. eg
+buttons exist but don't give required functionality yet.
+
 ## Phase 1: Foundation & Validation (Months 1-3)
 
 **Technical Development:**
